@@ -10,3 +10,7 @@ any medical or non-medical professionals on any computer/device to detect COVID 
 ## Dependencies 
 *  Python 3.7.11
 *  Tensorflow 2.8.0
+*  Flask
+*  Numpy
+*  Pandas
+*  Scikit-Learn
