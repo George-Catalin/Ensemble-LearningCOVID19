@@ -24,4 +24,10 @@ The project has four directories:
    * train_model.py - Script for training the models
    * testing.py - Script for getting the performance metrics
    * training.py - Contains functions for ensembling and function for measuring the performance of the ensembler
+   
+   
+*  GUI :
+   * gradcam.py - Script for the GRADCAM implementation
+   * main.py - The main script to run the app 
+   * utils.py - Flask implementation to run the app on a browser
  
