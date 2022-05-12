@@ -17,5 +17,5 @@ any medical or non-medical professionals on any computer/device to detect COVID 
 
 ## Strcture
 The project has four directories:
--  Dors
+1. Models.py
 
