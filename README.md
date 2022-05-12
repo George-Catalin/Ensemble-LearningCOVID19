@@ -28,6 +28,6 @@ The project has four directories:
    
 *  GUI :
    * gradcam.py - Script for the GRADCAM implementation
-   * main.py - The main script to run the app 
+   * main.py - Main application written in python using Flask
    * utils.py - Flask implementation to run the app on a browser
  
