@@ -19,4 +19,4 @@ any medical or non-medical professionals on any computer/device to detect COVID 
 The project has four directories:
 *  DataPreparation Script : Contains NPY_creator.py script for making npy arrays out of the images
 *  Model Training Script :
-  *train_model.py
+   * train_model.py
