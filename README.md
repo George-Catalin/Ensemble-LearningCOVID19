@@ -14,3 +14,8 @@ any medical or non-medical professionals on any computer/device to detect COVID 
 *  Numpy
 *  Pandas
 *  Scikit-Learn
+
+## Strcture
+The project has four directories:
+-  Dors
+
