@@ -65,3 +65,9 @@ Images
 ```
 After training the model, the accuracy, confusion matrix will be printed in the console.
 ```
+
+#  The Application
+```
+Run the main.py script and copy and paste the link generated in the console on a browser.
+Or simply see it on: http://localhost:5000/
+```
