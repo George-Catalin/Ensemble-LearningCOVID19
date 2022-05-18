@@ -35,7 +35,7 @@ The project has four directories:
  * Data Preparation
  ```
 1. The Image data are kept into separate directories as COVID_19 +ve and COVID_19 -ve.
-2. These images are split into separate diretories as train and test
+2. These images are split into separate diretories as train and test.
 
 Thus the directory structure is as:
 
@@ -55,3 +55,13 @@ Images
     
 3. Then run the NPY_creator.py script and the enter the paths according to the prompt.
  ```
+*  Training the Model
+```
+1. Run the train_model.py script and the enter the paths that the program asks for.
+2. The models will be saved in the directory.
+```
+
+*  Performance
+```
+After training the model, the accuracy, confusion matrix will be printed in the console.
+```
