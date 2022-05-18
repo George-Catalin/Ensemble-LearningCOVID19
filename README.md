@@ -32,7 +32,7 @@ The project has four directories:
    * utils.py - Flask implementation to run the app on a browser
  ![alt text](https://github.com/George-Catalin/Ensemble-LearningCOVID19/blob/main/Pictures/result.jpg?raw=true)
  
- * Data Preparation
+ # Data Preparation
  ```
 1. The Image data are kept into separate directories as COVID_19 +ve and COVID_19 -ve.
 2. These images are split into separate diretories as train and test.
@@ -55,13 +55,13 @@ Images
     
 3. Then run the NPY_creator.py script and the enter the paths according to the prompt.
  ```
-*  Training the Model
+#  Training the Model
 ```
 1. Run the train_model.py script and the enter the paths that the program asks for.
 2. The models will be saved in the directory.
 ```
 
-*  Performance
+#  Performance
 ```
 After training the model, the accuracy, confusion matrix will be printed in the console.
 ```
