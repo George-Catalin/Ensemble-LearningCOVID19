@@ -32,6 +32,26 @@ The project has four directories:
    * utils.py - Flask implementation to run the app on a browser
  ![alt text](https://github.com/George-Catalin/Ensemble-LearningCOVID19/blob/main/Pictures/result.jpg?raw=true)
  
+ * Data Preparation
  ```
- sdfsdf
+1. The Image data are kept into separate directories as COVID_19 +ve and COVID_19 -ve.
+2. These images are split into separate diretories as train and test
+
+Thus the directory structure is as:
+
+Images
+    |
+    ----Train
+    |       |
+    |       ---- COVID_19 +ve
+    |       |
+    |       ---- COVID_19 -ve
+    |
+    -----Test
+            |
+            ---- COVID_19 +ve
+            |
+            ---- COVID_19 -ve
+    
+3. Then run the NPY_creator.py script and the enter the paths according to the prompt.
  ```
