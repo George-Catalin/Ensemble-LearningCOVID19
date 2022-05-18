@@ -31,3 +31,7 @@ The project has four directories:
    * main.py - Main application written in python using Flask
    * utils.py - Flask implementation to run the app on a browser
  ![alt text](https://github.com/George-Catalin/Ensemble-LearningCOVID19/blob/main/Pictures/result.jpg?raw=true)
+ 
+ ```
+ sdfsdf
+ ```
